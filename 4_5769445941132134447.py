@@ -46,8 +46,6 @@ def snap(phone):
     except:
         print ("not send")
 
-def adanbaba(phone):
-
 try:
     phone = str(input("↦Target Phone (+98xxxxxxx): "))
     while True:
